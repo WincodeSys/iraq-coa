@@ -1,0 +1,1061 @@
+# Translation of Odoo Server.
+# This file contains the translation of the following modules:
+# 	* coa_l10n_iq
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Odoo Server 14.0+e-20201112\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-11-16 20:39+0000\n"
+"PO-Revision-Date: 2021-11-16 23:40+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: \n"
+"Language: ar\n"
+"X-Generator: Poedit 1.8\n"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_122002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.122002_account_Wincode
+msgid "(INV)  Ready Made Materials"
+msgstr "مخزون المواد تامة الصنع"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_122001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.122001_account_Wincode
+msgid "(INV) RAW Materials"
+msgstr "مخزون المواد الأولية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_122004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.122004_account_Wincode
+msgid "(INV) Transfer Products"
+msgstr "حساب النقل بين مخزون المنتجات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_122003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.122003_account_Wincode
+msgid "(INV) Transfer RAW"
+msgstr "حساب النقل بين مخزون الخام"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_122005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.122005_account_Wincode
+msgid "(INV) Transfer Stock Production"
+msgstr "حساب النقل بين المخزون والإنتاج"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123006_account_Wincode
+msgid "Accounts Payable with Debit Balances"
+msgstr "حسابات دائنة بأرصدة مدينة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114001_account_Wincode
+msgid "Accum Buildings"
+msgstr "تراكم اهلاك المباني والانشاءات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114002_account_Wincode
+msgid "Accum Cars"
+msgstr "تراكم اهلاك السيارات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114006_account_Wincode
+msgid "Accum Computer and software"
+msgstr "تراكم اهلالك كمبيوترات وأنظمة مشابهه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114005_account_Wincode
+msgid "Accum Electrical and electronic devices"
+msgstr "تراكم اهلاك أجهزة كهربائية والكترونية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114003_account_Wincode
+msgid "Accum Furniture"
+msgstr "تراكم اهلاك الأثاث والمفروشات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_114004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.114004_account_Wincode
+msgid "Accum Machines and equipments"
+msgstr "تراكم اهلاك معدات النشاط"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_114
+msgid "Accumulated Depreciation  "
+msgstr "مجمع اهلاك"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_342
+msgid "Actual Rent"
+msgstr "ايجارات فعلية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311003_account_Wincode
+msgid "Additional Work Expenses"
+msgstr "مصروفات عمل إضافي"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_233003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.233003_account_Wincode
+msgid "Advance Rental Income "
+msgstr "إيرادات أيجارات مدفوعة مقدما"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_116002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.116002_account_Wincode
+msgid "Advertising and Promotion"
+msgstr "حملة إعلانية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_111001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.111001_account_Wincode
+msgid "Agricultural Lands"
+msgstr "أراضي زراعية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_1
+msgid "Assets"
+msgstr "الأصول"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_432002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.432002_account_Wincode
+msgid "Assets replacement income"
+msgstr "أيرادات استبدال أصول"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_112
+msgid "Autos and Trucks"
+msgstr "وسائل نقل وانتقال"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_352004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.352004_account_Wincode
+msgid "Bad Debts  "
+msgstr "ديون معدومة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322010_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322010_account_Wincode
+msgid "Bank Service Charge"
+msgstr "عمولات ومصروفات مصرفية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_1212
+msgid "Banks"
+msgstr "البنوك"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232006_account_Wincode
+msgid "Bills Due"
+msgstr "كهرباء وفواتير مستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123003_account_Wincode
+msgid "Branches Company"
+msgstr "الشركات والفروع التابعة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_342002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.342002_account_Wincode
+msgid "Building Rent"
+msgstr "إيجار مباني"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_111002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.111002_account_Wincode
+msgid "Buildings"
+msgstr "مباني سكنية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_32
+msgid "Business Activity Requirements"
+msgstr "مستلزمات النشاط التجاري"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_311
+msgid "Cach Payroll"
+msgstr "أجور نقدية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_423
+msgid "Capital Income"
+msgstr "ايرادات رأسماليه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_352002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.352002_account_Wincode
+msgid "Capital loss"
+msgstr "خسائر رأسمالية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_112001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.112001_account_Wincode
+msgid "Cars"
+msgstr "سيارات "
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_121
+msgid "Cash and cash equivalents"
+msgstr "النقد والنقد المكافئ"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_1211
+msgid "Cash in hand"
+msgstr "صناديق النقدية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_422
+msgid "Casual income"
+msgstr "ايرادات عرضيه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_351002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.351002_account_Wincode
+msgid "Charity donations and charity"
+msgstr "تبرعات خيرية وصدقات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_232
+msgid "Collections and Deductions"
+msgstr "التحصيلات والاستقطاعات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_321
+msgid "Commodity Accessories"
+msgstr "مستلزمات سلعية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311005_account_Wincode
+msgid "Compensation Expenses"
+msgstr "مصروفات تعويضات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_352001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.352001_account_Wincode
+msgid "Compensation to others and fines"
+msgstr "تعويضات للغير وغرامات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_352
+msgid "Compentsatiry Damages"
+msgstr "تعويضات وغرامات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341004_account_Wincode
+msgid "Consumption of activity equipment"
+msgstr "اهلاك معدات النشاط"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_312004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.312004_account_Wincode
+msgid "Continuing Education Expenses"
+msgstr "مصروفات تعليم مستمر"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_351
+msgid "Contributions"
+msgstr "تبرعات واعانات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331001_account_Wincode
+msgid "Cost of Goods"
+msgstr "تكاليف بضاعة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_12
+msgid "Current Assets  "
+msgstr "الأصول المتداولة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_23
+msgid "Current Liabilities  "
+msgstr "الخصوم المتداولة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_34
+msgid "Current Transfers"
+msgstr "المصروفات التحويلية الجارية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_35
+msgid "Current deductible expenses"
+msgstr "المصروفات الجارية التخصيصية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_233001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.233001_account_Wincode
+msgid "Customer Deposits"
+msgstr "ايداعات عملاء"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_233002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.233002_account_Wincode
+msgid "Customer Insurance"
+msgstr "تأمينات عملاء"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331003_account_Wincode
+msgid "Customs Costs"
+msgstr "تكاليف جمارك"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422002_account_Wincode
+msgid "Deductions for demurrages Revenues "
+msgstr "ايرادات استقطاعات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_117001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.117001_account_Wincode
+msgid "Deferred Income Tax "
+msgstr "ضريبة الدخل المؤجلة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_117
+msgid "Deferred Tax"
+msgstr "الضرائب المؤجلة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_116
+msgid "Delaeyd Revenue Expenses"
+msgstr "نفقات ايرادية مؤجلة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_341
+msgid "Depreciation"
+msgstr "أعباء الأهلاك والإستهلاك"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341001_account_Wincode
+msgid "Depreciation of buildings and constructions"
+msgstr "اهلاك المباني والانشاءات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341005_account_Wincode
+msgid "Depreciation of electrical and electronic equipment"
+msgstr "اهلاك أجهزة كهربائية والكترونية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341003_account_Wincode
+msgid "Depreciation of furniture and furnishings"
+msgstr "اهلاك الأثاث والمفروشات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341002_account_Wincode
+msgid "Depreciation of vehicles and means of transport"
+msgstr "اهلاك السيارات ووسائل النقل"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341006_account_Wincode
+msgid "DepreciationComputers and systems are similar"
+msgstr "اهلالك كمبيوترات وأنظمة مشابهه"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_221
+msgid "Distributed Profits and Losses"
+msgstr "أرباح وخسائر موزعة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311004_account_Wincode
+msgid "EXPENSES OF PROCESSES"
+msgstr "مصروفات مكأفات تشجيعية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_113003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.113003_account_Wincode
+msgid "Electrical and Electronic Devices"
+msgstr "أجهزة كهربائية والكترونية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322006_account_Wincode
+msgid "Electricity and Water"
+msgstr "الإنارة والمياه"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_1213
+msgid "Electronic Payment cards"
+msgstr "بطاقات الدفع الالكترونية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123002_account_Wincode
+msgid "Employees Imprest"
+msgstr "سلف وعهد الموظفين"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311002_account_Wincode
+msgid "Expense Expenses"
+msgstr "مصروفات اكراميات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_3
+msgid "Expenses"
+msgstr "المصروفات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_234001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.234001_account_Wincode
+msgid "Falling Inventory Prices"
+msgstr "مخصصات هبوط أسعار المخزون"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_115001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.115001_account_Wincode
+msgid "Famous brand"
+msgstr "شهرة الأعمال التجارية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_11
+msgid "Fixed assets"
+msgstr "الأصول الثابته"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_312002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.312002_account_Wincode
+msgid "Food Expenses"
+msgstr "مصروفات تغذية وترفيه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_121202_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.121202_account_Wincode
+msgid "Foreign Currency Bank"
+msgstr "بنك عملة أجنبية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_121102_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.121102_account_Wincode
+msgid "Foreign Currency Cach"
+msgstr "صندوق عملة اجنبية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_312
+msgid "Fringe Benefits And wages "
+msgstr "أجور ومزايا عينية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_321001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.321001_account_Wincode
+msgid "Fuel And Oil store"
+msgstr "وقود وزيت ومحروقات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_113001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.113001_account_Wincode
+msgid "Furnitures"
+msgstr "أثاث ومفروشات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_113
+msgid "Furnitures and Equipments"
+msgstr "الاثاث والتجهيزات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_411004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.411004_account_Wincode
+msgid "Gifts"
+msgstr "هدايا وعينات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_321003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.321003_account_Wincode
+msgid "Handling Charges"
+msgstr "مواد تعبئة وتغليف"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_113004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.113004_account_Wincode
+msgid "Hardware and Software"
+msgstr "كمبيوترات وأنظمة مشابهه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311006_account_Wincode
+msgid "Help And Aid"
+msgstr "مساعدات ومعونات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_312001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.312001_account_Wincode
+msgid "Housing expenses"
+msgstr "مصروفات سكن"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_352003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.352003_account_Wincode
+#: model:account.group,name:coa_l10n_iq.sa_group_41
+msgid "Impairment losses on goodwill"
+msgstr "إيرادات النشاط التجاري"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_352005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.352005_account_Wincode
+msgid "Income Tax"
+msgstr "ضريبة دخل الأرباح"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_33
+msgid "Income costs"
+msgstr "تكاليف الدخل"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_125
+msgid "Income due"
+msgstr "الدخل المستحق"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_233
+msgid "Insurance Income and Prepayments"
+msgstr "إيرادات تأمينية والمدفوعات مقدما"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_115
+msgid "Intangible Assets  "
+msgstr "أصول معنوية غير ملموسة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322008_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322008_account_Wincode
+msgid "Internet and network"
+msgstr "اشتراكات انترنت وشبكات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_342001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.342001_account_Wincode
+msgid "Lands Rent"
+msgstr "إيجار أراضي"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_111
+msgid "Lands and Buildings"
+msgstr "اراضي ومباني"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_421
+msgid "League revenues"
+msgstr "ايرادات دوريه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322005_account_Wincode
+msgid "Leasing (plant and equip)"
+msgstr "استئجار آلات ومعدات ووسائط نقل"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_2
+msgid "Liabilities"
+msgstr "الإلتزامات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_account_arabic_coa_general_liquidity_transfer
+#: model:account.account.template,name:coa_l10n_iq.account_arabic_coa_general_liquidity_transfer
+msgid "Liquidity Transfer"
+msgstr "تحويل جاري"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322001_account_Wincode
+msgid "Maintenance services expenses"
+msgstr "مصروفات خدمات صيانة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_121303_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.121303_account_Wincode
+msgid "Master Card"
+msgstr "ماستر كارد"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_312003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.312003_account_Wincode
+msgid "Medication Expenses"
+msgstr "مصروفات علاج"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_331
+msgid "Net purchases and products sold"
+msgstr "صافي المشتريات والمنتجات المباعة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_411002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.411002_account_Wincode
+#: model:account.group,name:coa_l10n_iq.sa_group_411
+msgid "Net sales of goods for sale"
+msgstr "صافي مبيعات بضائع بغرض البيع"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_412
+msgid "Net sales of services for sale"
+msgstr "صافي مبيعات خدمات بغرض البيع"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_321004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.321004_account_Wincode
+msgid "Office Supplies"
+msgstr "أدوات مكتبية وقرطاسية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322002_account_Wincode
+msgid "Operating Expenses"
+msgstr "مصروفات تشغيل لدى الغير"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422001_account_Wincode
+msgid "Operating income for others"
+msgstr "ايرادات تشغيل للغير"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_116001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.116001_account_Wincode
+msgid "Organization Expense"
+msgstr "نفقات التأسيس"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322012_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322012_account_Wincode
+msgid "Other Commission"
+msgstr "عمولات مختلفة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123007_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123007_account_Wincode
+msgid "Other Receivables"
+msgstr "ذمم مدينة أخرى"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_231002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.231002_account_Wincode
+msgid "Other payables"
+msgstr "ذمم دائنة أخرى"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_221001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.221001_account_Wincode
+msgid "Owners Profits 1"
+msgstr "أرباح موزعة للمالك 1"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_221002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.221002_account_Wincode
+msgid "Owners Profits 2"
+msgstr "أرباح موزعة للمالك 2 "
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_211001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.211001_account_Wincode
+msgid "Owners share 1"
+msgstr "رأس مال المالك 1"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_211002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.211002_account_Wincode
+msgid "Owners share 2"
+msgstr "رأس مال المالك 2"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_115002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.115002_account_Wincode
+msgid "Patents"
+msgstr "براءات الاختراع"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_121301_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.121301_account_Wincode
+msgid "PayPal"
+msgstr "حساب باي بال"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_231
+msgid "Payables"
+msgstr "الذمم الدائنة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_231001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.231001_account_Wincode
+msgid "Payables Accounts"
+msgstr "حسابات الدائنون"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_31
+msgid "Payroll"
+msgstr "الأجور"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232002_account_Wincode
+msgid "Payroll Taxes"
+msgstr "ضرائب الأجور المستقطعة والمستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422003_account_Wincode
+msgid "Penalties and absence of workers"
+msgstr "ايرادات جزاءات وغياب العمال"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322009_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322009_account_Wincode
+msgid "Permits and licenses"
+msgstr "تصاريح وتراخيص"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_124
+msgid "Prepaid Expenses "
+msgstr "مصروفات جارية مدفوعة مقدما"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_124001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.124001_account_Wincode
+msgid "Prepaid Rents"
+msgstr "ايجارات مدفوعة مقدما"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_124002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.124002_account_Wincode
+msgid "Prepaid Wages"
+msgstr "أجور مدفوعة مقدما"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331004_account_Wincode
+msgid "Production Costs"
+msgstr "تكاليف انتاج"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_125001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.125001_account_Wincode
+msgid "Profit on others"
+msgstr "أرباح لدى الغير"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_222
+msgid "Profits Held"
+msgstr "أرباح محتجزة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_22
+msgid "Profits and Losses"
+msgstr "الأرباح والخسائر"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_222001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.222001_account_Wincode
+msgid "Profits and Losses Current year"
+msgstr "أرباح وخسائر غيز موزعة السنة الحالية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_222002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.222002_account_Wincode
+msgid "Profits and Losses Previous years"
+msgstr "أرباح محتجزة للسنوات السابقة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_21
+msgid "Property Rights"
+msgstr "حقوق الملكية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_421001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.421001_account_Wincode
+msgid "Property rental income"
+msgstr "ايرادات تأجيرعقاريه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_234002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.234002_account_Wincode
+msgid "Provision Doubtful Debts"
+msgstr "مخصص الديون المشكوك في تحصيلها"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_234
+msgid "Provisions"
+msgstr "المخصصات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322003_account_Wincode
+msgid "Publicity and Advertising"
+msgstr "دعاية وإعلان وعلاقات عامة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232005_account_Wincode
+msgid "Purchase taxes Due"
+msgstr "ضرائب المشتريات المستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331006_account_Wincode
+msgid "Purchases Discounts"
+msgstr "خصومات المشتريات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331005_account_Wincode
+msgid "Purchases Returns"
+msgstr "مردودات المشتريات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_123
+msgid "Receivables"
+msgstr "الذمم المدينة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123001_account_Wincode
+msgid "Receivables Accounts"
+msgstr "حسابات المدينون"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123004_account_Wincode
+msgid "Reimbursable Income taxes"
+msgstr "ضرائب مدخلات قابلة للرد"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_123005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.123005_account_Wincode
+msgid "Reimbursable outcome taxes"
+msgstr "ضرائب مخرجات قابلة للرد"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_421002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.421002_account_Wincode
+msgid "Rental income of ATM areas"
+msgstr "ايرادات تاجير مساحات الصراف الالي"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232007_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232007_account_Wincode
+msgid "Rents Due"
+msgstr "ايجارات مستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341008_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341008_account_Wincode
+msgid "Residues and damaged stock of finished materials"
+msgstr "بقايا وتالف مخزون المواد تامة الصنع"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_341007_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.341007_account_Wincode
+msgid "Residues and damaged stock of raw materials"
+msgstr "بقايا وتالف مخزون المواد الأولية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_412002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.412002_account_Wincode
+msgid "Returns of sales services"
+msgstr "مردودات مبيعات خدمات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_42
+msgid "Revenue earned"
+msgstr "الايرادات المكتسبه"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422005_account_Wincode
+msgid "Revenue from compensation and fines to others"
+msgstr "إيرادات تعويضات وغرامات على الغير"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_421003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.421003_account_Wincode
+msgid "Revenue of advertising space"
+msgstr "ايرادات مساحات اعلانات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422006_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422006_account_Wincode
+msgid "Revenue of the difference"
+msgstr "فروق العمله"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_4
+msgid "Revenues"
+msgstr "الدخل (الإيرادات)"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_311001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.311001_account_Wincode
+msgid "Salaries Expenses "
+msgstr "مصروفات رواتب "
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232001_account_Wincode
+msgid "Salary and Allowance"
+msgstr "رواتب واجور مستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_411001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.411001_account_Wincode
+msgid "Sales  total "
+msgstr "مبيعات بضاعة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322011_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322011_account_Wincode
+msgid "Sales Commision"
+msgstr "عمولات مبيعات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_411003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.411003_account_Wincode
+msgid "Sales Permits"
+msgstr "مسموحات مبيعات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_423001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.423001_account_Wincode
+msgid "Sales revenue of assets"
+msgstr "ايرادات مبيعات أصول"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232004_account_Wincode
+msgid "Sales taxes Due"
+msgstr "ضرائب المبيعات المستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.chart.template,name:coa_l10n_iq.account_arabic_coa_general
+msgid "Saudi Wincode - Chart of Accounts"
+msgstr "دليل المحاسبة السعودي بواسطة مهلهل"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_412001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.412001_account_Wincode
+msgid "Service Revenues"
+msgstr "مبيعات خدمات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_422004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.422004_account_Wincode
+msgid "Service Revenues "
+msgstr "إيرادات عمولات"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_322
+msgid "Service Supplies"
+msgstr "مستلزمات خدمية"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_211
+msgid "Share Capital"
+msgstr "رأس مال الشركاء"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_331002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.331002_account_Wincode
+msgid "Shipping delivery Costs"
+msgstr "تكاليف شحن وتوصيل وتفريغ"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_312005_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.312005_account_Wincode
+msgid "Social Insurance "
+msgstr "تأمينات اجتماعية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_115004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.115004_account_Wincode
+msgid "Software and System"
+msgstr "الأنظمة والبرامج"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_113002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.113002_account_Wincode
+msgid "Special Equipments"
+msgstr "معدات وأجهزة النشاط"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_232003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.232003_account_Wincode
+msgid "Stock Staff"
+msgstr "مساهمات العاملين المستقطعة والمستحقة"
+
+#. module: coa_l10n_iq
+#: model:account.group,name:coa_l10n_iq.sa_group_122
+msgid "Stores (Inventory)"
+msgstr "المخزون"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322013_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322013_account_Wincode
+msgid "Subscription"
+msgstr "تسهيلات حكومية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_351003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.351003_account_Wincode
+msgid "Subsidy"
+msgstr "اعانات للغير"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322007_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322007_account_Wincode
+msgid "Telephone expenses"
+msgstr "مصروفات هاتف واتصالات"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_115003_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.115003_account_Wincode
+msgid "Trademarks"
+msgstr "العلامات التجارية"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_322004_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.322004_account_Wincode
+msgid "Transportation Charges"
+msgstr "نقل وانتقال"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_112002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.112002_account_Wincode
+msgid "Trucks"
+msgstr "باصات نقل موظفين"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_321002_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.321002_account_Wincode
+msgid "Various tool parts"
+msgstr "قطع غيار وأدوات مختلفة"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_121302_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.121302_account_Wincode
+msgid "Visa Card"
+msgstr "فيزا كارد"
+
+#. module: coa_l10n_iq
+#: model:account.account,name:coa_l10n_iq.1_351001_account_Wincode
+#: model:account.account.template,name:coa_l10n_iq.351001_account_Wincode
+msgid "Zakat imposed"
+msgstr "الزكاة المفروضة"
